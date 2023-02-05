@@ -1,0 +1,1 @@
+print("Abre o bloco de notas")
