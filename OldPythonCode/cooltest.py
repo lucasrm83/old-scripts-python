@@ -1,0 +1,7 @@
+entrada1 = int(input())
+entrada2 = int(input())
+raizQ = entrada1 ** (1/2)
+raizC = entrada2 ** (1/3)
+print(raizQ, raizC)
+print(raizQ ** 2)
+print(raizC ** 3)
